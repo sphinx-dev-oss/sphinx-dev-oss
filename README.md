@@ -4,7 +4,7 @@
 -  🇭🇺 Hungarian 🇭🇺
 - 🎂 16 yrs old 🎂
 - 🚧 Working on a small project. 🚧
-> 🚧 Project name: **Saint Art Online (SAO)** 🚧
+     > 🚧 Project name: **Saint Art Online (SAO)** 🚧
 
 - ✨ Primary Launguage: **Hungary** ✨
 
