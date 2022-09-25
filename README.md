@@ -3,8 +3,9 @@
 -  👋 I'm *Bence* AKA **Izumi** 👋
 -  🇭🇺 Hungarian 🇭🇺
 - 🎂 16 yrs old 🎂
-- 🚧 Working on a small project. 🚧
+- 🚧 Working on a small project(s). 🚧
      > 🚧 Project name: **Saint Art Online (SAO)** 🚧
+     > 🚧 Project name: **Forced Zone (FZ)** 🚧
 
 - ✨ Primary Launguage: **Hungary** ✨
 
