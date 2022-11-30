@@ -7,6 +7,8 @@
      > 🚧 Project name: **Saint Art Online (SAO)** 🚧
 
      > 🚧 Project name: **Forced Zone (FZ)** 🚧
+     
+     > 🚧 Project name: **Cube's Club** 🚧
 
 - ✨ Primary Launguage: **Hungary** ✨
 
@@ -26,4 +28,4 @@
 
 > 🎮 Steam: **https://steamcommunity.com/profiles/76561199101636006/**
 
-> 📧 Personal Email: **kerybence801@gmail.com**
+> 📧 Personal Email: **szemelyes.keresztesy.bence@gmail.com**
