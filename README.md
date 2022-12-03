@@ -1,6 +1,6 @@
 #
 #
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=100&size=30&duration=4200&pause=5&center=true&vCenter=true&width=1000&height=57&lines=sphinx-dev-oss;%F0%9F%96%8A%EF%B8%8F+CodePen%3A+https%3A%2F%2Fcodepen.io%2Fsphinx-dev-oss%2F;%F0%9F%90%99+GitHub%3A+https%3A%2F%2Fgithub.com%2Fsphinx-dev-oss%2F;%F0%9F%A6%8A+GitLab%3A+https%3A%2F%2Fgitlab.com%2Fsphinx-dev-oss;%F0%9F%93%B7+TikTok%3A+%40sgs.kiyoshi;%F0%9F%8C%90+Personal+Website%3A+http%3A%2F%2Fkiyoshidev.nhely.hu%2F;%F0%9F%93%A7+Personal+Email%3A+szemelyes.keresztesy.bence%40gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=100&size=30&duration=4200&pause=5&center=true&vCenter=true&width=1000&height=57&lines=sphinx-dev-oss;%F0%9F%96%8A%EF%B8%8F+CodePen%3A+https%3A%2F%2Fcodepen.io%2Fsphinx-dev-oss%2F;%F0%9F%90%99+GitHub%3A+https%3A%2F%2Fgithub.com%2Fsphinx-dev-oss%2F;%F0%9F%A6%8A+GitLab%3A+https%3A%2F%2Fgitlab.com%2Fsphinx-dev-oss;%F0%9F%93%B7+TikTok%3A+%40sgs.kiyoshi;%F0%9F%8C%90+Personal+Website%3A+http%3A%2F%2Fkiyoshidev.nhely.hu%2F;%F0%9F%93%A7+Personal+Email%3A+szemelyes.keresztesy.bence%40gmail.com)](https://github.com/sphinx-dev-oss/)
 #
 #
 # 🌠 About me 🌠
