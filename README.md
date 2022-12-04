@@ -46,4 +46,4 @@
 | PHP with Database | 35% ~ 45% |
 | JS      | 15%   |
 | Node.js (Discord) | 25% |
-| Lua (Multi Theft Auto San Andreas) | 85% |
+| Lua (MTA SA) | 85% |
